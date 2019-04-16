@@ -1,0 +1,351 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://webprotege.stanford.edu/project/98xUYM2Q5ay5Qy94oPuT3h#"
+     xml:base="http://webprotege.stanford.edu/project/98xUYM2Q5ay5Qy94oPuT3h"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://webprotege.stanford.edu/project/98xUYM2Q5ay5Qy94oPuT3h"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R1dm1lFOUojaQMufVd0EFM -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R1dm1lFOUojaQMufVd0EFM">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8MH7DNvjsq5ilJytOLLWp"/>
+        <rdfs:label xml:lang="tr">Üçüncü Sınıf Dersleri</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R6ZBbgNsA6Afh5sB76Bu6d -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R6ZBbgNsA6Afh5sB76Bu6d">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R1dm1lFOUojaQMufVd0EFM"/>
+        <rdfs:label xml:lang="tr">Derme Yönetimi</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7NTfNvGIoVYaphLYRMdSUI -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7NTfNvGIoVYaphLYRMdSUI">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R1dm1lFOUojaQMufVd0EFM"/>
+        <rdfs:label xml:lang="tr">Araştırma Kütüphaneleri</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7O6XlQDzM5LhhW03Yfflc4 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7O6XlQDzM5LhhW03Yfflc4">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBQSaiXlrje9830xeIcUo5G"/>
+        <rdfs:label xml:lang="tr">Bilgi Arama Davranışları</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7P05W46yLmpKSBEf97nYEd -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7P05W46yLmpKSBEf97nYEd">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBLZirvm8kTPdv03m8BZT01"/>
+        <rdfs:label xml:lang="tr">Yenilik Yönetimi</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R821XGKCMpIcZiBKcXJjo4K -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R821XGKCMpIcZiBKcXJjo4K">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDtbo5mP3w8ZTGs336H57Pd"/>
+        <rdfs:label xml:lang="tr">Üçüncü Şube</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8MH7DNvjsq5ilJytOLLWp -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8MH7DNvjsq5ilJytOLLWp">
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilgi ve Belge Yönetimi Bölümü Dersleri</rdfs:comment>
+        <rdfs:label xml:lang="tr">Bölüm dersleri</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.bby.hacettepe.edu.tr/dersprog.asp"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8hOLaZNsK7Tji61OCxZr7 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8hOLaZNsK7Tji61OCxZr7">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R1dm1lFOUojaQMufVd0EFM"/>
+        <rdfs:label xml:lang="tr">Yönetim Bilgi Sistemleri</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8pKMVu95wK5m7JMvVrBqLS -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8pKMVu95wK5m7JMvVrBqLS">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9yEhFihirgKr0eg3BZtjKz"/>
+        <rdfs:label xml:lang="tr">Bilgi Hizmetleri</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9eLz18sWhCoCduFd4ahTlG -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9eLz18sWhCoCduFd4ahTlG">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R1dm1lFOUojaQMufVd0EFM"/>
+        <rdfs:label xml:lang="tr">Medyada Bilgi Yönetimi</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9uQflyXm1SqhMeTWe32REa -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9uQflyXm1SqhMeTWe32REa">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R1dm1lFOUojaQMufVd0EFM"/>
+        <rdfs:label xml:lang="tr">Bilgi Sistemleri Tasarımı</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9yEhFihirgKr0eg3BZtjKz -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9yEhFihirgKr0eg3BZtjKz">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8MH7DNvjsq5ilJytOLLWp"/>
+        <rdfs:label xml:lang="tr">Birinci Sınıf Dersleri</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB8q8VZEJcHmHjvZrI33cFs -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RB8q8VZEJcHmHjvZrI33cFs">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBQSaiXlrje9830xeIcUo5G"/>
+        <rdfs:label xml:lang="tr">Araştırma Yöntemleri</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBLT1KuLm660VmO9i3AvSoa -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBLT1KuLm660VmO9i3AvSoa">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBQSaiXlrje9830xeIcUo5G"/>
+        <rdfs:label xml:lang="tr">Bilgi Mimarisi</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBLZirvm8kTPdv03m8BZT01 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBLZirvm8kTPdv03m8BZT01">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8MH7DNvjsq5ilJytOLLWp"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dördüncü Sınıf Dersleri</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBO3cJgFnc3yNxtAHhyAOYU -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBO3cJgFnc3yNxtAHhyAOYU">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R1dm1lFOUojaQMufVd0EFM"/>
+        <rdfs:label xml:lang="tr">İçerik Yönetimi</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBQSaiXlrje9830xeIcUo5G -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBQSaiXlrje9830xeIcUo5G">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8MH7DNvjsq5ilJytOLLWp"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">İkinci Sınıf Dersleri</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBZ0kFhZzO40192G0IdvFXl -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBZ0kFhZzO40192G0IdvFXl">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBLZirvm8kTPdv03m8BZT01"/>
+        <rdfs:label xml:lang="tr">Semantik Bilgi Yönetimi</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBmFDb8lukN2RlJjv82fSxC -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBmFDb8lukN2RlJjv82fSxC">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBQSaiXlrje9830xeIcUo5G"/>
+        <rdfs:label xml:lang="tr">Araştırma Yöntemleri - Uygulama</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBn5xcDURzbdgaMQ0oWacsQ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBn5xcDURzbdgaMQ0oWacsQ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDtbo5mP3w8ZTGs336H57Pd"/>
+        <rdfs:label xml:lang="tr">Birinci Şube</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCFFbR5dV31BmwQXzeHIuL5 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCFFbR5dV31BmwQXzeHIuL5">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9yEhFihirgKr0eg3BZtjKz"/>
+        <rdfs:label xml:lang="tr">Bilgi Erişim</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCrbQSxemRDHAVmlVoseDSs -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCrbQSxemRDHAVmlVoseDSs">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBQSaiXlrje9830xeIcUo5G"/>
+        <rdfs:label xml:lang="tr">Halk ve Çocuk Kütüphaneleri</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCvXhXcedHOqHGvTAj3PJq0 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCvXhXcedHOqHGvTAj3PJq0">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBLZirvm8kTPdv03m8BZT01"/>
+        <rdfs:label xml:lang="tr">Belge Mühendisliği</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCxcFE9GMrp6CunbSG4RtwR -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCxcFE9GMrp6CunbSG4RtwR">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9yEhFihirgKr0eg3BZtjKz"/>
+        <rdfs:label xml:lang="tr">Bilimsel İletişim</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCyT2U1zy2hOQ3QLO04iuz4 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCyT2U1zy2hOQ3QLO04iuz4">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBLZirvm8kTPdv03m8BZT01"/>
+        <rdfs:label xml:lang="tr">Araştırma Raporu</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDiBB1JtsX1Dr0RCMeIIuvN -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDiBB1JtsX1Dr0RCMeIIuvN">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9yEhFihirgKr0eg3BZtjKz"/>
+        <rdfs:label xml:lang="tr">Programlama ve Algoritmalar</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDtbo5mP3w8ZTGs336H57Pd -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDtbo5mP3w8ZTGs336H57Pd">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCyT2U1zy2hOQ3QLO04iuz4"/>
+        <rdfs:label xml:lang="tr">Şube</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RJNAGk4uKceJQagKAMJa08 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RJNAGk4uKceJQagKAMJa08">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBQSaiXlrje9830xeIcUo5G"/>
+        <rdfs:label xml:lang="tr">Arşiv Yönetimi</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RQQuH32sMuHw4XLtEHtaS -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RQQuH32sMuHw4XLtEHtaS">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R1dm1lFOUojaQMufVd0EFM"/>
+        <rdfs:label xml:lang="tr">Müzelerde Bilgi Yönetimi</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RQabIR6jdHPeTe3rYfAiiF -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RQabIR6jdHPeTe3rYfAiiF">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R1dm1lFOUojaQMufVd0EFM"/>
+        <rdfs:label xml:lang="tr">Bilimsel ve Teknik Bilgi Yönetimi</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RZsE7truIigfUInIIhdnHB -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RZsE7truIigfUInIIhdnHB">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBQSaiXlrje9830xeIcUo5G"/>
+        <rdfs:label xml:lang="tr">Web Tasarımı</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rcvr5qEUHKz7PiM8a3D6X3 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rcvr5qEUHKz7PiM8a3D6X3">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9yEhFihirgKr0eg3BZtjKz"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilginin Düzenlenmesi</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RfxIMuuVzDcxZXOGFu12Mq -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RfxIMuuVzDcxZXOGFu12Mq">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9yEhFihirgKr0eg3BZtjKz"/>
+        <rdfs:label xml:lang="tr">Çocuk ve Gençlik Yayınları</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RgDX9H3WMN5NqHDKPz4Rvv -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RgDX9H3WMN5NqHDKPz4Rvv">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDtbo5mP3w8ZTGs336H57Pd"/>
+        <rdfs:label xml:lang="tr">İkinci Şube</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RvGvDXgjUGXEhCIQWmyWKp -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RvGvDXgjUGXEhCIQWmyWKp">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBQSaiXlrje9830xeIcUo5G"/>
+        <rdfs:label xml:lang="tr">Dizinleme ve Sınıflama</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RvQJ86rLOm2ShMmDzscRaK -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RvQJ86rLOm2ShMmDzscRaK">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R1dm1lFOUojaQMufVd0EFM"/>
+        <rdfs:label xml:lang="tr">Toplam Kalite Yönetimi</rdfs:label>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.10) https://github.com/owlcs/owlapi -->
+
